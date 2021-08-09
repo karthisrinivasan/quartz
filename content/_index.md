@@ -1,7 +1,7 @@
 # 🌱 Mind Palace
 ## v1.1
 
-Test
+Test plis work
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
